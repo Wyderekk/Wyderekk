@@ -3,7 +3,7 @@
                                           @infomartion
                     -@                    ───────────────────
                    .##@                   👥 Username: wyderekk
-                  .####@                  🌐 Website: https://wyderekk.cf/
+                  .####@                  🌐 Website: https://wyderekk.me/
                   @#####@                 🌍 Country: Poland
                 . *######@                
                .##@o@#####@               
