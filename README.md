@@ -1,6 +1,6 @@
 ﻿```css
 [wyderekk@github ~]$ neofetch
-                                          @infomartion
+                                          @information
                     -@                    ───────────────────
                    .##@                   👥 Username: wyderekk
                   .####@                  🌐 Website: https://wyderekk.me/
