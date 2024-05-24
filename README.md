@@ -3,9 +3,9 @@
                                           @information
                     -@                    ───────────────────
                    .##@                   👥 Username: wyderekk
-                  .####@                  🌐 Website: https://wyderekk.me/
-                  @#####@                 🌍 Country: Poland
-                . *######@                🌠 Discord: 06g
+                  .####@                  🌐 Website: https://cute.rip/
+                  @#####@                 🌠 Discord: 06g
+                . *######@                🌍 Country: Poland
                .##@o@#####@               
               /############@              
              /##############@            
