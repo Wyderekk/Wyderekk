@@ -3,7 +3,7 @@
                                           @information
                     -@                    ───────────────────
                    .##@                   👥 Username: wyderekk
-                  .####@                  🌐 Website: https://cute.rip/
+                  .####@                  🌐 Website: https://grimclient.eu
                   @#####@                 🌠 Discord: 06g
                 . *######@                🌍 Country: Poland
                .##@o@#####@               
